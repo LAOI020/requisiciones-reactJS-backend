@@ -1,0 +1,7 @@
+/node_modules
+
+database/config.js
+
+.env
+
+.cholula.xlsx
